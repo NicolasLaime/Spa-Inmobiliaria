@@ -86,3 +86,10 @@ Desarrollador Full Stack — Proyecto Inmobiliaria SPA
 ---
 
 📌 *Proyecto Full Stack — CRUD completo con autenticación y gestión de archivos en la nube.*
+
+![ver-propiedades](https://github.com/user-attachments/assets/6cf13f80-ee5f-4681-b68f-3ea9997843a2)
+
+![crear-propiedades](https://github.com/user-attachments/assets/616cf5ad-713a-4d3f-84e1-143eb1a4c256)
+
+![crud-mensajes](https://github.com/user-attachments/assets/3eac6f1d-ad6f-47af-941f-c5314bf81d91)
+
